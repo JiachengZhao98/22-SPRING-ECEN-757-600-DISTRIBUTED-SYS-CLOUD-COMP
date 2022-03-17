@@ -1,1 +1,3 @@
-# 22-SPRING-ECEN-757-600-DISTRIBUTED-SYS-CLOUD-COMP
+Resources of TAMU course: ECEN 757, in spring 2022
+
+Instructor: I-Hong Hou, Associate Professor
